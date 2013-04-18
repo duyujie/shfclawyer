@@ -1,0 +1,447 @@
+﻿.Content b
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    line-height: 150%;
+    text-align: left;
+}
+.Content p
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    line-height: 150%;
+    text-align: left;
+}
+.Content td
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    line-height: 150%;
+    text-align: left;
+}
+.Content div
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    line-height: 150%;
+    text-align: left;
+}
+.Content a:link
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+.Content a:visited
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #1D1D1D;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+.Content a:hover
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FF0000;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+
+.TopTitle a:link
+{
+    font-family: 黑体;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+.TopTitle a:visited
+{
+    font-family: 黑体;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+.TopTitle a:hover
+{
+    font-family: 黑体;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+
+.RedFont
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FF0000;
+    font-weight: bold;
+    line-height: 150%;
+    text-align: left;
+}
+
+td.Nav
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FFFFFF;
+    line-height: 150%;
+}
+td.Nav a:link
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Nav a:visited
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Nav a:hover
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 120%;
+}
+
+td.Nav2
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #02508e;
+    line-height: 150%;
+}
+td.Nav2 a:link
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Nav2 a:visited
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Nav2 a:hover
+{
+    font-family: Arial;
+    font-size: 9pt;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+
+td.Title
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #02508e;
+    line-height: 150%;
+}
+td.Title a:link
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Title a:visited
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+td.Title a:hover
+{
+    font-family: Arial;
+    font-size: 16px;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+
+span.Keywords
+{
+    font-family: Arial;
+    font-size: 14px;
+    color: #02508e;
+    line-height: 150%;
+}
+span.Keywords a:link
+{
+    font-family: Arial;
+    font-size: 14px;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+span.Keywords a:visited
+{
+    font-family: Arial;
+    font-size: 14px;
+    color: #02508e;
+    text-decoration: none;
+    line-height: 120%;
+}
+span.Keywords a:hover
+{
+    font-family: Arial;
+    font-size: 14px;
+    color: #FF0000;
+    text-decoration: none;
+    line-height: 120%;
+}
+
+td.IntroTitle
+{
+    font-family: Arial;
+    font-size: 12pt;
+    color: #005e00;
+    line-height: 150%;
+    text-align: left;
+}
+td.IntroTitle a:link
+{
+    font-family: Arial;
+    font-size: 12pt;
+    color: #005e00;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+td.IntroTitle a:visited
+{
+    font-family: Arial;
+    font-size: 12pt;
+    color: #005e00;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+td.IntroTitle a:hover
+{
+    font-family: Arial;
+    font-size: 12pt;
+    color: #005e00;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+
+#ImageShowLeft
+{
+    background-image: url(../Images/PhotoFrameShadow_Left.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+#ImageShowRight
+{
+    background-image: url(../Images/PhotoFrameShadow_Right.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+#ImageShowBottom
+{
+    background-image: url(../Images/PhotoFrameShadow_Bottom.jpg);
+    background-repeat: x-repeat;
+}
+#TheLongLine
+{
+    background-image: url(../Images/LongLine.jpg);
+    background-repeat: no-repeat;
+}
+#TheShortLine
+{
+    background-image: url(../Images/ShortLine.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+td.ModuleTitle
+{
+    font-family: Arial;
+    font-size: 11pt;
+    color: blue;
+    line-height: 120%;
+    text-align: left;
+}
+td.ModuleTitle a:link
+{
+    font-family: Arial;
+    font-size: 11pt;
+    color: blue;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+td.ModuleTitle a:visited
+{
+    font-family: Arial;
+    font-size: 11pt;
+    color: blue;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+td.ModuleTitle a:hover
+{
+    font-family: Arial;
+    font-size: 11pt;
+    color: blue;
+    text-decoration: none;
+    line-height: 120%;
+    text-align: left;
+}
+
+td.Footer
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    color: #FFFFFF;
+    line-height: 150%;
+}
+
+.DivLogoRight
+{
+    color: White;
+}
+
+.frameGuestaskTable
+{
+    width: 600px;
+    height: 520px;
+    margin-top: 10px;
+    float: left;
+    border: solid 1px #E0E3CA;
+    border-collapse: collapse;
+}
+
+
+.rollOfficeImg
+{
+    width: 440px;
+    height: 285px;
+}
+.moduleTable
+{
+    width: 320px;
+}
+.imgNoborder
+{
+    border-style: none;
+    vertical-align: middle;
+}
+
+.artileTitle
+{
+    color: green;
+}
+
+.defaultContent
+{
+    font-family: 宋体;
+    font-size: 14px;
+    line-height: 150%;
+    margin: 5px 10px;
+    text-indent: 2em;
+    color: #49394E;
+}
+.defaultContent A:visited, .defaultContent A:link
+{
+    color: black;
+    text-decoration: underline;
+}
+.defaultContent A:hover
+{
+    color: red;
+}
+.defaultContent P
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.defaultContent TD
+{
+    color: #49394e;
+}
+
+.definedContent
+{
+    font-size: 14px;
+    line-height: 150%;
+    margin: 5px 10px;
+    color: #49394E;
+}
+.definedContent A:visited, .definedContent A:link
+{
+    color: black;
+    text-decoration: underline;
+}
+.definedContent A:hover
+{
+    color: red;
+}
+.definedContent P
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.definedContent TD
+{
+    color: #49394e;
+}
+
+
+a:link.e
+{
+    font-size: 13px;
+    font-weight: normal;
+    color: blue;
+    text-decoration: none;
+}
+a:hover.e
+{
+    font-size: 13px;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: underline overline;
+}
+a:visited.e
+{
+    font-size: 13px;
+    font-weight: normal;
+    color: blue;
+    text-decoration: none;
+}

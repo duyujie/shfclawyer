@@ -1,0 +1,277 @@
+body {
+	margin:0;
+	height:100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+div{margin:0px auto;}
+li{list-style:none;}
+#content{width:960px;}
+#Top{
+	margin:0;
+	height:auto;
+	background-image:url(/img/topBG_1.gif);
+}
+.word {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #666666;
+}
+.whiteword {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #ffffff;
+}
+
+#NavBg{
+height:66px;
+margin:auto;
+background-image: url("/img/navbg.gif");
+background-color:#CCCCCC;
+text-align:center;
+}
+
+#Nav{width:960px;
+}
+.STYLE1 {color: #FFFFFF}
+#Nav li{
+	float:left;
+	text-align:center;
+}
+.nav_a a:link,.nav_a a:visited{
+		text-decoration:none;
+		font-size:15px;
+		font-weight:bold;
+		color: #17334E;
+		display:block; 
+		padding-right:4px;
+		margin-top:0px;  
+		float:left;
+}
+		
+.nav_a span{
+	width:150px;
+	font-size:15px; 
+	display:block; 
+	line-height:33px; 
+	/*padding-left:6px; */
+	float:left;
+}
+/*
+_width:80px;
+_padding:0px;
+_margin:0px;
+*/
+
+.nav_a a:hover,.nav_a active{
+	margin-top:0px;
+	font-size:15px;
+	font-weight:bold;
+	color: #17334E;
+	cursor:hand;
+	background-image: url("/img/navArrow.gif");
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+
+.titlewords{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC3300;
+	font-weight: bold;
+
+}
+.titlewords2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #444444;
+	font-weight: bold;
+
+}
+.titlewords3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #003399;
+	font-weight: bold;
+
+}
+.titlewords4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #CC3300;
+	font-weight: bold;
+
+}
+a:link,a:visited {
+	text-decoration:none;
+	color: #555555;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.underline {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+.underline2 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+a:hover{
+	color: #333333;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a.a2:link,a.a2:visited {
+	font-size:12px;
+	text-decoration:none;
+	color: #003366;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+a.a2:hover{
+	color: #000000;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+a.a3:link,a.a3:visited {
+	font-size:12px;
+	text-decoration:none;
+	color: #666666;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+a.a3:hover{
+	color: #000000;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+a.a4:link,a.a4:visited {
+	font-size:14px;
+	text-decoration:none;
+	color: #ffffff;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+a.a4:hover{
+	color: #ffffff;
+	line-height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+
+}
+.outline {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #EFF0F5;
+border: 1px solid #CCCCCC;
+}
+.flink{
+width:840px;
+overflow:hidden;
+text-align:left;
+}
+.flink .tbox{
+	margin:0 0 8px 0;
+	border-bottom:1px solid #CCCCCC;
+	overflow:hidden;
+}
+.flink .tbox dt{
+	height:24px;
+	border:1px solid #CCCCCC;
+	overflow:hidden;
+	clear:both;
+}
+.flink .tbox dd{
+	/*width:838px;*/
+	border-left:1px solid #CCCCCC;
+	border-right:1px solid #CCCCCC;
+	/*padding:4px 4px 0px;*/
+	overflow:hidden;
+	margin:0;
+	padding:0;
+}
+
+.flink .tbox dt strong{
+	height:24px;
+	line-height:24px; !important;line-height:25px;
+	padding-left:8px;
+	padding-right:4px;
+	display:block;
+	float:left;
+	letter-spacing:1px;
+}
+.flink .tbox dt strong a{
+	color:#555555;
+}
+.flink .tbox dt strong a:hover{
+	text-decoration:none;
+}
+.flink .tbox dt span.more{
+	float:right;
+	position:relative;
+	line-height:25px;
+	padding-right:8px;
+}
+.flink .tbox dt span.more a{
+	text-decoration:none;
+}
+.flink .tbox dt span.more a:hover{
+	color:#ff3333;
+	text-decoration:underline;
+}
+.flink .tbox dt span.label{
+	height:25px;
+	float:right;
+	overflow:hidden;
+	padding-right:1px;
+	padding-top:2px;
+}
+.flink .tbox dt span.label a{
+	height:26px;
+	display:block;
+	padding:0px 7px 0px 8px;
+	line-height:26px;
+	border-left:1px solid #BADAA1;
+	float:left;
+	color:#666;
+	text-decoration:none;
+	overflow:hidden;
+	letter-spacing:1px;
+}
+.flink .tbox dt span.label a:hover{
+	color:#360;
+}
+.flink .f5{
+	width:100%;
+	overflow:hidden;
+	clear:both;
+	padding-bottom:10px;
+}
+.flink .f5 li{
+	float:left;
+	line-height:14px;
+	padding:8px 10px 0px;
+	white-space:nowrap;
+}
+.flink .f5 li a{
+	color:#666666;
+	float:left;
+}
+.li_1{
+line-height:25px;
+height:25px;
+}
