@@ -8,7 +8,7 @@
     <table border="0" cellspacing="0" width="240px">
         <tr>
             <td>
-                <table id="Lawyer1" style="width: 100%;display: none;">
+                <table id="Lawyer1" style="width: 100%;">
                     <tr>
                         <td style="text-align: center;" height="200px;">
                             <div style="float: left; margin-left: 20px; margin-top: 80px; margin-right: 10px">
@@ -49,7 +49,7 @@
                         </td>
                     </tr>
                 </table>
-                <table id="Lawyer2" style="width: 100%; ">
+                <table id="Lawyer2" style="width: 100%; display: none;">
                     <tr>
                         <td style="text-align: center;" height="200px">
                             <div style="float: left; margin-left: 20px; margin-top: 80px; margin-right: 10px">
