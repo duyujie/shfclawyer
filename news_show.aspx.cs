@@ -57,12 +57,17 @@ namespace com.hujun64
                     if(article!=null)
                         articleId = article.id;
                 }
-                else
+                else if (articleId == null)
+                {
+                    return;
+                }else
                 {
                     articleId = articleId.ToUpper();
                     article = articleService.GetArticle(articleId, true);
                 }
-                if (string.IsNullOrEmpty(article.id))
+
+
+                if (article!=null && string.IsNullOrEmpty(article.id))
                 {
                     if (articleId!=null && articleId.StartsWith("G"))
                     {

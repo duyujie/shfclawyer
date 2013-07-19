@@ -2,6 +2,9 @@ User-agent: *
 
 Disallow: /admin/
 Disallow: /log/
-Disallow: /*.axd$ 
-
-
+Disallow: /*.axd$
+Disallow: /frmae_flzx.aspx*
+Disallow: /intro.aspx*
+Disallow: /listclass.aspx*
+Disallow: /fee.aspx*
+Disallow: /webservice.aspx*

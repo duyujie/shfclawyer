@@ -52,14 +52,14 @@
                         <li class="nav_a"><a href="listitem.aspx?class_name=律师博文与手记"><span>博文手记</span></a></li>
                         <li class="nav_a"><a href="listitem.aspx?class_name=诉讼知识"><span>诉讼知识</span></a></li>
                         <li class="nav_a"><a href="listitem.aspx?class_name=实用法规"><span>实用法规</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name=聘请律师"><span>聘请律师</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=律师介绍"><span>聘请律师</span></a></li>
                         <br />
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>房屋买卖</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>房屋权属</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>离婚继承</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>拆迁安置</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>租赁抵押</span></a></li>
-                        <li class="nav_a"><a href="listitem.aspx?class_name="><span>物业管理</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=房屋买卖"><span>房屋买卖</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=房屋权属"><span>房屋权属</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=离婚继承"><span>离婚继承</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=拆迁安置"><span>拆迁安置</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=租赁抵押"><span>租赁抵押</span></a></li>
+                        <li class="nav_a"><a href="listitem.aspx?class_name=物业管理"><span>物业管理</span></a></li>
                     </div>
                 </div>
             </td>

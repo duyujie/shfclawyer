@@ -24,8 +24,33 @@
                                     </tr>
                                     <tr>
                                         <td colspan="2">
-                                            <b>联系电话：</b><span style="font-size: 16px;"><strong>13636542941</strong></span><br>
-                                            <b>E-Mail： &nbsp; </b>hujun64@gmail.com
+                                           <table>
+                                                    <tr>
+                                                        <td align="right">
+                                                            <b>电话：</b>
+                                                        </td>
+                                                        <td>
+                                                            <span style="font-size: 16px;"><strong>
+                                                                <%=Total.Mobile %></strong></span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            E-Mail：
+                                                        </td>
+                                                        <td>
+                                                            <%=Total.Email %>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            QQ:
+                                                        </td>
+                                                        <td>
+                                                            <%=Total.Qq %>
+                                                        </td>
+                                                    </tr>
+                                                </table>
                                         </td>
                                     </tr>
                                 </table>
@@ -76,7 +101,7 @@
                     Copyright@shfclawyer.com&nbsp;
                     <%=Total.SiteName %><br>
                     联系地址：上海市闸北区恒丰路500号洲际商务中心16楼<br />
-                    <%--盈科(上海)律师事务所<br />--%>
+                    盈科(上海)律师事务所<br />
                     备案号：沪ICP备09011496号</p>
             </div>
         </td>
